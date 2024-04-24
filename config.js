@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497078', 'me', true],
-  ['6281255369012', 'Ash', true], 
+  ['94714774737', '𝙾𝚆𝙽𝙴𝚁', true],
+  ['94714774737', '╰☆𝙋нO̷𝙴₦I𝗫☆╮', true], 
   [''] 
 ] //Number of owners
 
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᵁᴷ𝙇𝙀𝙂𝙀𝙉𝘿'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.packname = 'ᵁᴷ𝙇𝙀𝙂𝙀𝙉𝘿' 
+global.author = '𝘿𝙪𝙡𝙖𝙧𝙖 𝘼𝙠𝙖𝙨𝙝' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com9\n' 
+global.dygp = 'https://chat.whatsapp.com/JVqny9ENccFG7qDg4JcHb2'
+global.fgsc = 'https://github.com/SanukaGe/SG-QUEEN-ELISA-MD/tree/3.9.5-V' 
+global.fgyt = 'https://youtube.com/'
+global.fgpyp = 'https://youtube.com/'
+global.fglog = 'https://telegra.ph/file/47d5b4b85afc682c2f717.jpg' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
